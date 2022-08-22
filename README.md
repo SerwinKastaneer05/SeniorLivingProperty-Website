@@ -1,4 +1,6 @@
-The Cane Tank 
+The Cane Tank - http://canetank.admin123.net/login.php
+Create an account by clicking on register ( top right corner) 
+
 
 This application will help senior citizens keep an inventory of all their personal items with pictures, videos, cost,
 and description of their item. Once the item is in the system, they can view, update, and
